@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-努力学习ing。
+learning...
 
-我的引导页😎：[xun](asuka-xun.cc)
+My home page😎：[xun](asuka-xun.cc)
 
-我的博客😋：[xun's blog](https://blog.asuka-xun.cc/)
+My blog😋：[xun's blog](https://blog.asuka-xun.cc/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
