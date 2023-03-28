@@ -6,8 +6,6 @@
 
 我的博客😋：[xun's blog](https://blog.asuka-xun.cc/)
 
-全是 0 ↓🥺
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
