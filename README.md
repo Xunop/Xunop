@@ -2,7 +2,7 @@
 
 learning...
 
-My home page😎：[xun](asuka-xun.cc)
+My home page😎：[xun](https://asuka-xun.cc)
 
 My blog😋：[xun's blog](https://blog.asuka-xun.cc/)
 
