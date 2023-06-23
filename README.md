@@ -2,9 +2,9 @@
 
 learning...
 
-My home page😎：[xun](https://fooo.in)
+This is my home page [xun's home page](https://fooo.in)
 
-My blog：[xun's blog](https://blog.fooo.in)
+This is my blog [xun's blog](https://blog.fooo.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://raw.githubusercontent.com/Xunop/Xunop/output/github-contribution-grid-snake-dark.svg)" />
